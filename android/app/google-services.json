@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864965303140",
+    "project_id": "fir-integration-d00bf",
+    "storage_bucket": "fir-integration-d00bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864965303140:android:d9b8ba957f899b0a957871",
+        "android_client_info": {
+          "package_name": "com.app.firebase_integration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864965303140-anuhbmv5d9kcgm2ggdrv9qlbeffmlhvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByeHYPwbaVuWK87YV3fo4xvM-XHWwj9Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864965303140-anuhbmv5d9kcgm2ggdrv9qlbeffmlhvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
